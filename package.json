@@ -1,0 +1,25 @@
+{
+  "name": "lazlo",
+  "version": "0.0.0",
+  "description": "Lazar Lazlo's code to decode QR code, concatenated into a single js file",
+  "main": "lazlo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arnauddri/lazlo"
+  },
+  "keywords": [
+    "qrcode",
+    "lazar",
+    "lazlo",
+    "qr"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnauddri/lazlo/issues"
+  },
+  "homepage": "https://github.com/arnauddri/lazlo"
+}
